@@ -1,1 +1,1 @@
-# Ejemplo de un GitHub Pages 
+# Ejemplo de un GitHub Page
